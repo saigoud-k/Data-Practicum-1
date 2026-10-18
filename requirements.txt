@@ -1,0 +1,15 @@
+
+# Data manipulation and numerical computing
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning and model evaluation
+scikit-learn
+
+# Jupyter notebook environment
+jupyter
+ipykernel
