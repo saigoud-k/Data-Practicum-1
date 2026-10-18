@@ -1,0 +1,212 @@
+Feature,Importance
+numeric__Latitude,0.09897797691336833
+numeric__Longitude,0.09855374266667066
+numeric__Crash Hour,0.0727789442901476
+numeric__TU-1 Estimated Speed,0.07114051474632146
+numeric__TU-1 Speed Limit,0.04907265666293163
+numeric__TU-2 Estimated Speed,0.04649622426760527
+numeric__TU-2 Speed Limit,0.042351554411599324
+numeric__Total Vehicles,0.03842779474762017
+categorical__TU-1 Human Contributing Factor_No Apparent Contributing Factor,0.014292328219596164
+categorical__Day of Week_Friday,0.012863859928452728
+categorical__Day of Week_Wednesday,0.012833948794544423
+categorical__Day of Week_Thursday,0.012813700904928272
+categorical__Day of Week_Tuesday,0.012317251792065522
+categorical__Day of Week_Monday,0.012163400608244833
+categorical__Day of Week_Saturday,0.011889690510888316
+categorical__Lighting Conditions_Daylight,0.011403547444167342
+categorical__TU-1 Driver Action_Careless Driving ,0.010523827908962342
+categorical__Day of Week_Sunday,0.010479964720527035
+categorical__TU-1 Human Contributing Factor_Looked/Did Not See,0.009716756345735536
+categorical__TU-1 Driver Action_Lane Violation,0.00954056621761188
+categorical__Road Contour Grade_Level,0.009528721486595854
+categorical__TU-1 Human Contributing Factor_Not Observed,0.009450800036286199
+categorical__Lighting Conditions_Dark – Lighted,0.009403875852545757
+categorical__Weather Condition_Clear,0.009188703653345776
+categorical__TU-1 Driver Action_Failed to Yield ROW,0.008975125380708547
+categorical__County_DENVER,0.00897286540592884
+categorical__TU-1 Driver Action_No Contributing Action,0.008899318358159582
+categorical__County_ADAMS,0.007755575386205268
+categorical__Road Contour Curves_Straight,0.007676991360117471
+categorical__TU-1 Human Contributing Factor_Other Factor (Describe in Narrative),0.007500531972110552
+categorical__Weather Condition_Cloudy,0.007207123723773411
+categorical__Road Contour Grade_Downhill,0.006802195571680833
+categorical__Road Condition_Dry,0.006613613360240462
+categorical__County_ARAPAHOE,0.006492679299369859
+categorical__Road Contour Grade_Uphill,0.006409573053348695
+categorical__Lighting Conditions_Dark – Unlighted,0.006401451501987142
+categorical__TU-1 Human Contributing Factor_Driver Inexperience,0.006401186662515447
+categorical__County_JEFFERSON,0.006210279167672671
+categorical__TU-1 Driver Action_Followed Too Closely,0.006018786679471664
+categorical__County_EL PASO,0.005871668818629097
+categorical__TU-1 Human Contributing Factor_Distracted - Other Interior,0.005803194255289984
+categorical__TU-1 Human Contributing Factor_Aggressive Driving,0.005627278238599526
+categorical__Road Contour Curves_Curve Right,0.005506407564386632
+categorical__TU-1 Driver Action_Improper Backing,0.005462258261287014
+categorical__Lighting Conditions_Dawn or Dusk,0.005374728955256424
+categorical__County_WELD,0.005142456284808086
+categorical__TU-1 Driver Action_Failed to Stop at Signal,0.005058338133435813
+categorical__Road Contour Curves_Curve Left,0.00497796804462646
+categorical__County_DOUGLAS,0.004858512130418084
+categorical__TU-1 Human Contributing Factor_Age/Driver Ability,0.00468805263595162
+categorical__TU-2 Human Contributing Factor_No Apparent Contributing Factor,0.004526349016501243
+categorical__Road Condition_Wet,0.004432991893775839
+categorical__County_LARIMER,0.004368266886786015
+categorical__County_BOULDER,0.004252914564024873
+categorical__TU-1 Human Contributing Factor_Distracted - Other Exterior,0.004077758718980528
+categorical__TU-1 Driver Action_Other Contributing Action (Describe in Narrative),0.0039311258490105526
+categorical__TU-1 Human Contributing Factor_Driver Unfamiliar With Area,0.0035102785408760483
+categorical__TU-1 Human Contributing Factor_Asleep or Fatigued,0.003318689162514609
+categorical__Weather Condition_Rain,0.0032885636773690883
+categorical__TU-1 Driver Action_Reckless Driving,0.003223077606478184
+categorical__TU-2 Human Contributing Factor_Not Observed,0.0031911874155119706
+categorical__Weather Condition_Snow,0.0030765257085476104
+categorical__TU-2 Driver Action_No Contributing Action,0.002957775417806212
+categorical__County_PUEBLO,0.002935247645114368
+categorical__Road Condition_Icy,0.0028626338126719665
+categorical__TU-1 Driver Action_Improper Turn,0.002753162070188274
+categorical__TU-1 Human Contributing Factor_Medical,0.0027288827291390865
+categorical__TU-1 Driver Action_Too Fast for Conditions,0.0024923915932768934
+categorical__Road Condition_Snowy,0.0024705696798433454
+categorical__TU-1 Driver Action_Disregard Stop Sign,0.0024199159859021567
+categorical__County_MESA,0.002304808533264359
+categorical__Construction Zone_True,0.002134277658401085
+categorical__Construction Zone_False,0.0021265576196836155
+categorical__TU-1 Human Contributing Factor_Distracted/Other Occupant,0.001994063593001366
+categorical__County_BROOMFIELD,0.0018902594626769489
+categorical__TU-1 Human Contributing Factor_Sun Glare,0.0018624191747203154
+categorical__County_GARFIELD,0.0017490403172971153
+categorical__TU-1 Driver Action_Speeding,0.0015352913586030306
+categorical__TU-1 Driver Action_Disregarded Other Device/Sign/Markings,0.0014956525180179583
+categorical__TU-1 Human Contributing Factor_Distracted - Manipulating Electronic Device,0.0014249228662334267
+categorical__Weather Condition_Wind,0.001419494126728142
+categorical__County_EAGLE,0.0013212446563990682
+categorical__TU-2 Driver Action_Other Contributing Action (Describe in Narrative),0.001289981685354395
+categorical__TU-1 Driver Action_Over-Correcting/ Over-Steering,0.0012731973820007056
+categorical__County_SUMMIT,0.0012595540354800633
+categorical__County_LA PLATA,0.0012367050920399168
+categorical__TU-2 Human Contributing Factor_Looked/Did Not See,0.0011994629817407142
+categorical__TU-1 Human Contributing Factor_Distracted - Manipulating Vehicle Control,0.0011792868341353878
+categorical__TU-1 Human Contributing Factor_Driver Emotionally Upset,0.0011492654894387489
+categorical__County_FREMONT,0.001148658192097963
+categorical__Road Contour Grade_Hill Crest,0.0011441443805768866
+categorical__TU-1 Human Contributing Factor_Distracted - Eating/Drinking,0.001105318539568716
+categorical__TU-1 Driver Action_Turned from Wrong Lane or Position,0.0010399931683109773
+categorical__County_MONTROSE,0.001022382509771863
+categorical__TU-2 Human Contributing Factor_Other Factor (Describe in Narrative),0.0009872966832464231
+categorical__County_CLEAR CREEK,0.0009052857583579893
+categorical__County_DELTA,0.0009012918707996086
+categorical__TU-1 Driver Action_Improper Passing on Left,0.0008787599869167803
+categorical__County_MORGAN,0.0007750525217810129
+categorical__County_TELLER,0.0007626593327295418
+categorical__County_ROUTT,0.0007400397656522682
+categorical__County_PARK,0.0007282716906760713
+categorical__County_CHAFFEE,0.0007174981421145373
+categorical__Weather Condition_Blowing Snow,0.0007121481310252965
+categorical__Road Condition_Slushy,0.0007096351787712479
+categorical__County_PITKIN,0.0007080522921873186
+categorical__TU-2 Driver Action_Careless Driving ,0.0006853156293405843
+categorical__County_ALAMOSA,0.0006701766229593445
+categorical__County_MONTEZUMA,0.0006545450973997146
+categorical__TU-1 Human Contributing Factor_Distracted - Talking on Phone/Holding,0.0006436032843606496
+categorical__County_GRAND,0.0006087897762740533
+categorical__TU-1 Human Contributing Factor_Evading Law Enforcement Officer,0.000606443523232506
+categorical__TU-1 Driver Action_Improper Passing on Right,0.0005917902490461772
+categorical__TU-2 Human Contributing Factor_Aggressive Driving,0.0005776863025899516
+categorical__Road Contour Grade_Unknown,0.0005743565651113331
+categorical__TU-2 Driver Action_Followed Too Closely,0.0005697857533029128
+categorical__Road Condition_Dry W/Visible Icy Road Treatment,0.0005686669043079787
+categorical__Weather Condition_Fog,0.0005629105777100243
+categorical__County_ELBERT,0.0005364572396053992
+categorical__TU-2 Driver Action_Lane Violation,0.0004739419335757648
+categorical__TU-2 Driver Action_Failed to Yield ROW,0.00046836338801428754
+categorical__TU-2 Driver Action_Speeding,0.0004561357230368501
+categorical__Road Condition_Icy W/Visible Icy Road Treatment,0.0004548791120430045
+categorical__TU-2 Human Contributing Factor_Driver Inexperience,0.0004477744172052762
+categorical__County_OTERO,0.0004435352470327017
+categorical__County_ARCHULETA,0.0004395342479635156
+categorical__County_GUNNISON,0.00043835179066347395
+categorical__School Zone_False,0.00042156463510990545
+categorical__School Zone_True,0.00041991217588166756
+categorical__Road Contour Curves_Unknown,0.00041556683125291006
+categorical__County_LAS ANIMAS,0.00040174691540299584
+categorical__County_MOFFAT,0.00040092315401218557
+categorical__County_RIO GRANDE,0.0003958345186774373
+categorical__Road Condition_Snowy W/Visible Icy Road Treatment,0.0003915904227683953
+categorical__County_HUERFANO,0.00038379985144141075
+categorical__County_PROWERS,0.000345110599044099
+categorical__County_GILPIN,0.00034433505207971817
+categorical__County_KIT CARSON,0.0003401926980233379
+categorical__County_LOGAN,0.0003323287565526401
+categorical__Road Contour Grade_Sag/Bottom,0.00030892907730251486
+categorical__TU-1 Driver Action_Impeded Traffic,0.0003029349935285731
+categorical__TU-2 Human Contributing Factor_Age/Driver Ability,0.0002949406860277288
+categorical__Weather Condition_Sleet or Hail,0.0002834279658250054
+categorical__County_OURAY,0.00027762336486969317
+categorical__County_LINCOLN,0.00027031810825045035
+categorical__Weather Condition_Freezing Rain or Freezing Drizzle,0.0002692262118768981
+categorical__TU-1 Human Contributing Factor_Illness,0.00026143849636882
+categorical__County_LAKE,0.0002602194212214481
+categorical__County_SAN MIGUEL,0.0002568789459630674
+categorical__County_SAGUACHE,0.00024726290850098895
+categorical__TU-2 Driver Action_Impeded Traffic,0.0002434977832673622
+categorical__County_RIO BLANCO,0.00024019072383882944
+categorical__Road Condition_Wet W/Visible Icy Road Treatment,0.0002375063898361173
+categorical__County_YUMA,0.00023628889561349496
+categorical__County_KIOWA,0.00022915599513195846
+categorical__County_WASHINGTON,0.00022484980703590927
+categorical__County_CUSTER,0.00019338191362118645
+categorical__TU-1 Human Contributing Factor_Distracted - Talking on Phone/ Hands Free,0.00017774890428076608
+categorical__Road Condition_Sand/Gravel,0.00017750860601175417
+categorical__TU-2 Driver Action_Failed to Stop at Signal,0.00017507629527633623
+categorical__County_BENT,0.0001742240227522988
+categorical__County_COSTILLA,0.00017161480245677003
+categorical__Road Condition_Muddy,0.00016499998084640863
+categorical__TU-2 Human Contributing Factor_Distracted - Other Interior,0.0001638942573791678
+categorical__County_CONEJOS,0.00015648969907230297
+categorical__TU-1 Human Contributing Factor_Physical Disability,0.00015618582477868535
+categorical__TU-2 Human Contributing Factor_Distracted - Other Exterior,0.0001504691074625612
+categorical__Road Condition_Slushy W/Visible Icy Road Treatment,0.0001460982517046859
+categorical__TU-1 Driver Action_Signaling Violation,0.0001448209395723609
+categorical__County_MINERAL,0.00014320609128531584
+categorical__TU-2 Driver Action_Over-Correcting/ Over-Steering,0.0001411308751968509
+categorical__County_JACKSON,0.00013920412144800977
+categorical__County_DOLORES,0.00013905167698141692
+categorical__TU-2 Driver Action_Too Fast for Conditions,0.00013783394364208856
+categorical__TU-1 Human Contributing Factor_Distracted - Smoking,0.00013700808660234106
+categorical__TU-2 Driver Action_Reckless Driving,0.00013269236312785592
+categorical__TU-2 Human Contributing Factor_Driver Unfamiliar With Area,0.00012734843245953823
+categorical__County_CHEYENNE,0.00012109275831743636
+categorical__County_BACA,0.00010487593308721414
+categorical__TU-2 Driver Action_Improper Turn,0.00010246400665284002
+categorical__County_SEDGWICK,0.00010095228745244888
+categorical__Road Condition_Foreign Material,9.268414986972818e-05
+categorical__TU-2 Human Contributing Factor_Sun Glare,9.003602497962521e-05
+categorical__TU-2 Driver Action_Disregarded Other Device/Sign/Markings,8.37605193743626e-05
+categorical__TU-2 Driver Action_Disregard Stop Sign,8.32279442803333e-05
+categorical__TU-2 Human Contributing Factor_Asleep or Fatigued,7.506578807709539e-05
+categorical__TU-1 Driver Action_Racing,7.439633461756323e-05
+categorical__County_PHILLIPS,6.874731666839096e-05
+categorical__TU-2 Human Contributing Factor_Driver Emotionally Upset,6.42557125793138e-05
+categorical__County_CROWLEY,6.357001270535661e-05
+categorical__County_SAN JUAN,5.830816182286222e-05
+categorical__TU-2 Driver Action_Signaling Violation,4.953619060367425e-05
+categorical__County_HINSDALE,4.6811104993648795e-05
+categorical__Weather Condition_Dust,4.6463854369222964e-05
+categorical__TU-2 Driver Action_Improper Passing on Right,4.5169018555937515e-05
+categorical__Road Condition_Roto-Milled,4.36893039648749e-05
+categorical__TU-2 Human Contributing Factor_Distracted/Other Occupant,3.6120214500668766e-05
+categorical__TU-2 Driver Action_Improper Passing on Left,3.419627485300037e-05
+categorical__TU-1 Driver Action_Lacking Required Chains,3.1771870517441434e-05
+categorical__TU-2 Human Contributing Factor_Distracted - Manipulating Electronic Device,2.5438478016873842e-05
+categorical__TU-2 Driver Action_Improper Backing,2.105341693012286e-05
+categorical__TU-2 Human Contributing Factor_Evading Law Enforcement Officer,2.017469174809622e-05
+categorical__TU-2 Human Contributing Factor_Distracted - Manipulating Vehicle Control,1.652116931528174e-05
+categorical__TU-2 Driver Action_Turned from Wrong Lane or Position,1.4963597981873991e-05
+categorical__TU-2 Human Contributing Factor_Medical,1.2937496287354323e-05
+categorical__TU-2 Human Contributing Factor_Distracted - Talking on Phone/ Hands Free,1.2928768391400531e-05
+categorical__TU-2 Driver Action_Racing,1.1693426071279664e-05
+categorical__TU-2 Human Contributing Factor_Distracted - Eating/Drinking,7.51396593576688e-06
+categorical__TU-1 Human Contributing Factor_Distracted/Cell Phone,4.794946475767091e-06
+categorical__TU-2 Human Contributing Factor_Distracted - Talking on Phone/Holding,3.1624236245914223e-06
+categorical__TU-2 Human Contributing Factor_Illness,2.2010300773742877e-06

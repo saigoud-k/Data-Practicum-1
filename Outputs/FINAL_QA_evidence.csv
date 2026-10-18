@@ -1,0 +1,13 @@
+Question,Answer
+How large is the dataset?,"95,696 reported crashes and 110 variables."
+How many geographic records are valid?,"95,460 records have valid geographic coordinates."
+What is the strongest geographic finding?,Reported crashes are concentrated in a small number of Colorado locations.
+What is the highest-count geographic bin?,299 reported crashes.
+Why can't you call these locations high-risk?,"Traffic-volume exposure is not available, so crash counts cannot be converted into crash risk."
+What time had the most reported crashes?,"5 PM, with 7,855 reported crashes."
+Which model performed better?,Random Forest.
+What was the Random Forest AUC?,0.737.
+What was the Logistic Regression AUC?,0.671.
+Why use Random Forest?,It captured more of the injury/fatality outcome pattern on held-out data.
+Is the model causal?,"No. The analysis identifies patterns and associations, not causation."
+What should agencies do with the results?,Use concentrated crash locations as starting points for further investigation.

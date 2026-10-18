@@ -1,0 +1,10 @@
+Measure,Value
+Reported crashes,"95,696"
+Variables,119
+Valid geographic records,"95,460"
+Highest geographic bin,299
+Denver County crashes,0
+5 PM reported crashes,"7,855"
+Logistic Regression AUC,0.671
+Random Forest AUC,0.737
+AUC improvement,0.067
